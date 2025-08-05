@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanTur84
-- 👀 I’m interested in technology in general and especially in data science and cybersecurity
-- 🌱 I’m currently learning computer science and enterpreneurship
+- 👀 I’m interested in technology in general and especially in AI and Cybersecurity
+- 🌱 I hold a BSc in Computer Science
 - 💞️ I’m looking to collaborate on projects about coding in general
 - 📫 How to reach me EMAIL:moumounisawadogo3084@gmail.com
 
