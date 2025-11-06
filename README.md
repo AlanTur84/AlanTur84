@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanTur84
-- 👀 I’m interested in technology in general and especially in AI and Cybersecurity
-- 🌱 I hold a BSc in Computer Science
+- 👀 I’m a Junior Full-Stack and an aspiring Data Analyst
+- 🌱 I am a tech savy passionate about technology globally
 - 💞️ I’m looking to collaborate on projects about coding in general
 - 📫 How to reach me EMAIL:moumounisawadogo3084@gmail.com
 
